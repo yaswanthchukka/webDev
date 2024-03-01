@@ -1,0 +1,37 @@
+.card{
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    margin : 100px auto;
+    display: flex ;
+
+}
+.off-btn{
+    width: 200px;
+}
+.on-btn{
+    width: 200px;
+}
+.btn{
+    padding: 20px 50px;
+    background-color: white;
+    border: none;
+    margin:220px 40px;
+    border-radius: 12px 24px;
+    cursor: pointer;
+    border: 1px solid black;
+
+}
+.bulb{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+
+}
+.img{
+    width: 60%;
+    height: 60%;
+}
