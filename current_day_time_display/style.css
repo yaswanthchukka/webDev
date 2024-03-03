@@ -1,0 +1,32 @@
+.border{
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-image: linear-gradient(to bottom right,gray,black);
+    margin: 100px auto;
+}
+
+.display{
+    height: 100px;
+    width: 200px;
+    margin: 50px auto;
+    margin-bottom: 0px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.display1{
+    height: 100px;
+    width: 200px;
+    margin: 0px auto;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .display2{
+    display: flex;
+    justify-content: space-evenly;
+} */
